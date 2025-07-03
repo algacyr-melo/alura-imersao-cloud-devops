@@ -24,9 +24,9 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
      source venv/bin/activate
      ```
    - No Windows, abra um terminal no modo administrador e execute o comando:
-   ```sh
-   Set-ExecutionPolicy RemoteSigned
-   ```
+     ```sh
+     Set-ExecutionPolicy RemoteSigned
+     ```
 
      ```sh
      venv\Scripts\activate
